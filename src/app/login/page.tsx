@@ -23,7 +23,7 @@ export default function LoginPage() {
     <div className="flex h-full">
       <div className="left-box flex-1/2 flex flex-col justify-center gap-[30px] h-[100vh] p-[70px]">
         <div className="header flex flex-col gap-[30px]">
-          <h1 className="text-3xl text-[#143b5f] font-bold">Let's get you signed in</h1>
+          <h1 className="text-3xl text-[#143b5f] font-bold">Lets get you signed in</h1>
 
           <div className="flex gap-7">
             {/* <button  className="outline-1 outline-black/40 flex gap-2 items-center p-2 px-7 rounded-[5px] font-bold shadow-lg cursor-pointer"> <FaFacebook /> Sign in with Facebook </button>
